@@ -3,7 +3,7 @@
 A C++ program that organizes files in a folder by moving them into subfolders depending on their extensions. Logs each action in the `log.txt` file.
 
 ## Features:
-- Organizes files into folders (e.g., `.jpg` → `Images`, `.mp3` → `Music`)
+- Organizes files into folders (e.g., `.jpg` -> `Images`, `.mp3` -> `Music`)
 - Logs file movements with timestamps
 - Written in C++17 with no external dependencies
 
