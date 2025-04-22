@@ -1,0 +1,14 @@
+Tue Apr 22 19:18:29 2025
+Moved: C:\Users\Lenovo\Desktop\test\C++ Project2.7z to C:\Users\Lenovo\Desktop\test\Left out\C++ Project2.7z
+Tue Apr 22 19:18:29 2025
+Moved: C:\Users\Lenovo\Desktop\test\Certificate_SQL-Island.pdf to C:\Users\Lenovo\Desktop\test\Documents\Certificate_SQL-Island.pdf
+Tue Apr 22 19:18:29 2025
+Moved: C:\Users\Lenovo\Desktop\test\cslol-manager-windows (1).exe to C:\Users\Lenovo\Desktop\test\Left out\cslol-manager-windows (1).exe
+Tue Apr 22 19:18:29 2025
+Moved: C:\Users\Lenovo\Desktop\test\LOGIK 24  INF students  self assessments - Copy.xlsx to C:\Users\Lenovo\Desktop\test\Documents\LOGIK 24  INF students  self assessments - Copy.xlsx
+Tue Apr 22 19:18:29 2025
+Moved: C:\Users\Lenovo\Desktop\test\Part-2_Agile-Frameworks.pptx to C:\Users\Lenovo\Desktop\test\Documents\Part-2_Agile-Frameworks.pptx
+Tue Apr 22 19:18:29 2025
+Moved: C:\Users\Lenovo\Desktop\test\photo.jpg to C:\Users\Lenovo\Desktop\test\Images\photo.jpg
+Tue Apr 22 19:18:29 2025
+Moved: C:\Users\Lenovo\Desktop\test\PROBLEMS, QUESTIONS and TUTORIALS,   LOGIK ‘24  week 2-week5.docx to C:\Users\Lenovo\Desktop\test\Documents\PROBLEMS, QUESTIONS and TUTORIALS,   LOGIK ‘24  week 2-week5.docx
